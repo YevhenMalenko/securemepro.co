@@ -1,0 +1,3 @@
+[01-Jul-2019 08:34:37 UTC] PHP Notice:  Undefined index: termsConsent in /home/fanllkfx/securemepro.co/wp-content/plugins/smartlook-visitor-screen-recording/src/Plugin.php on line 141
+[01-Jul-2019 08:36:13 UTC] PHP Notice:  Undefined index: termsConsent in /home/fanllkfx/securemepro.co/wp-content/plugins/smartlook-visitor-screen-recording/src/Plugin.php on line 136
+[29-Aug-2019 17:53:43 UTC] PHP Notice:  Undefined variable: wp_error in /home/fanllkfx/securemepro.co/wp-content/plugins/popups/public/class-social-popup.php on line 367
